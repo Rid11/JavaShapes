@@ -56,5 +56,5 @@ public class BlendShapes extends Application {
     
 }
 
-// my error is showing at line 45 and 46
+//Error at line 45 & 46
 // please i need help ASAP
